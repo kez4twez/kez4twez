@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @kez4twez
-- 👀 I’m interested in ... HTML, CSS, JavaScript, I am interested and intrigued by programming in general! FinTech is another interest of mine
-all things finance, trading, crypto, blockchain etc...
-- 🌱 I’m currently learning ... Currently enrolled in a Fintech Bootcamp through Monash University Melbourne, to facilitate my learning and improve my skills in
-all areas re FinTech.
+- 👀 I’m interested in ... All things programming, blockchain and finance
+- 🌱 I’m currently learning ... Almost finished a FinTech bootcamp through Monash University, focused on Python, Solidity and ML
 - 💞️ I’m looking to collaborate on ... Anything!
 - 📫 How to reach me ... tomdweekes@gmail.com
 
