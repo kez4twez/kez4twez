@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kez4twez
+- 👋 Hi, I’m Tom Weekes (@kez4twez)
 - 👀 I’m interested in ... All things programming, blockchain and finance
-- 🌱 I’m currently learning ... Almost finished a FinTech bootcamp through Monash University, focused on Python, Solidity and ML
+- 🌱 I’m currently learning ... Solidity
 - 💞️ I’m looking to collaborate on ... Anything!
 - 📫 How to reach me ... tomdweekes@gmail.com
 
