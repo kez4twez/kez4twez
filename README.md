@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Tom Weekes (@kez4twez)
+- 👋 Hi, @kez4twez
 - 👀 I’m interested in ... All things programming, blockchain and finance
 - 🌱 I’m currently learning ... Solidity
 - 💞️ I’m looking to collaborate on ... Anything!
-- 📫 How to reach me ... tomdweekes@gmail.com
+- 📫 How to reach me ... @kez4twez
 
 - 🛠 I just finished working on a Web3 enabled decentralised exchange where you can swap cryptocurrencies  ... [Flex Dex](http://flex-dex.xyz/)
 
